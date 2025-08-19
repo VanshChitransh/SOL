@@ -1,0 +1,11 @@
+# Rust build directory
+/target/
+
+# Logs
+*.log
+
+# MacOS
+.DS_Store
+
+# Optional: Cargo lock if you don't want it
+# Cargo.lock
